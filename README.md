@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WanDz03
-- 👀 I’m interested in technology and AI.
+- 👀 I’m interested in software development and AI.
 - 🌱 I’m currently learning to code to become a software engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: dzafirulkimi@gmail.com 
